@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "cvLM"]
 	path = cvLM
-	url = https://github.com/cran/cvLM
+	url = https://github.com/phipnye/cv-lm
